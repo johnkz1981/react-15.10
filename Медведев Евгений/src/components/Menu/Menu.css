@@ -1,0 +1,7 @@
+.menu {
+  color: red;
+}
+
+.menu .active {
+  background-color: blue;
+}
